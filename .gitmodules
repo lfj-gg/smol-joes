@@ -3,7 +3,7 @@
 	url = https://github.com/foundry-rs/forge-std
 [submodule "lib/nft-base-contracts"]
 	path = lib/nft-base-contracts
-	url = https://github.com/traderjoe-xyz/nft-base-contracts
+	url = https://github.com/lfj-gg/nft-base-contracts
 [submodule "lib/openzeppelin-contracts"]
 	path = lib/openzeppelin-contracts
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts
